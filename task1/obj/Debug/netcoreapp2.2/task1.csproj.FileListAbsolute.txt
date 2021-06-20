@@ -1,0 +1,11 @@
+D:\Programs\TestTaskPerformanceLab\task1\bin\Debug\netcoreapp2.2\task1.deps.json
+D:\Programs\TestTaskPerformanceLab\task1\bin\Debug\netcoreapp2.2\task1.runtimeconfig.json
+D:\Programs\TestTaskPerformanceLab\task1\bin\Debug\netcoreapp2.2\task1.runtimeconfig.dev.json
+D:\Programs\TestTaskPerformanceLab\task1\bin\Debug\netcoreapp2.2\task1.dll
+D:\Programs\TestTaskPerformanceLab\task1\bin\Debug\netcoreapp2.2\task1.pdb
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.csprojAssemblyReference.cache
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.csproj.CoreCompileInputs.cache
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.AssemblyInfoInputs.cache
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.AssemblyInfo.cs
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.dll
+D:\Programs\TestTaskPerformanceLab\task1\obj\Debug\netcoreapp2.2\task1.pdb

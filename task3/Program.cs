@@ -77,7 +77,9 @@ namespace task3
         {
                 Calculations calcs = new Calculations();
                 calcs.FileReading();
-        }
+
+                Console.ReadKey();
+            }
     }
 }
 }

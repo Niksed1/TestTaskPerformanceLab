@@ -148,6 +148,8 @@ namespace task4
         {
             Calculations calcs = new Calculations();
             calcs.FileReading();
+
+            Console.ReadKey();
         }
     }
 }

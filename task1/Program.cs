@@ -100,6 +100,8 @@ namespace task1
             file.MaxVal();
             file.MinVal();
             file.AvgVal();
+
+            Console.ReadKey();
         }
 
     }

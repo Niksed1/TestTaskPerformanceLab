@@ -130,6 +130,8 @@ namespace task2
         {
             Calculations calcs = new Calculations();
             calcs.FileReading();
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,14 @@
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\hostpolicy.dll
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\hostfxr.dll
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.exe
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.deps.json
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.runtimeconfig.json
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.runtimeconfig.dev.json
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.dll
+D:\Programs\TestTaskPerformanceLab\task3\bin\Debug\netcoreapp2.2\win-x64\task3.pdb
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.csprojAssemblyReference.cache
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.csproj.CoreCompileInputs.cache
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.AssemblyInfoInputs.cache
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.AssemblyInfo.cs
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.dll
+D:\Programs\TestTaskPerformanceLab\task3\obj\Debug\netcoreapp2.2\win-x64\task3.pdb
